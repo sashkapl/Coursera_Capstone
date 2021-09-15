@@ -1,2 +1,1 @@
-# Coursera_Capstone
-Coursera_Capstone, for the needs of course 
+Public folder for LinkedIN 
